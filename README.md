@@ -23,9 +23,7 @@ This is a reference application showcasing the integration of CometChat's Androi
 
 ## Installation
 1. Clone the repository:
-    ```
-    git clone https://github.com/cometchat/cometchat-sample-app-android-kotlin.git
-    ```
+
 2. In Android Studio, open the project cometchat-sample-app-android-kotlin
 
 3. Enter your CometChat _`App ID`_, _`Region`_, and _`Auth Key`_ in the  file:
@@ -35,5 +33,3 @@ This is a reference application showcasing the integration of CometChat's Androi
 5. Run the app on a device or emulator.
 
 
-## Help and Support
-For issues running the project or integrating with our UI Kits, consult our  or seek real-time support via the

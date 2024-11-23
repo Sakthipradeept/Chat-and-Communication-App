@@ -12,3 +12,7 @@ This is a reference application showcasing the integration of CometChat's Androi
     justify-content: center;">
    <img src="./Screenshots/overview_cometchat_screens.png" >
 </div>
+
+Drive link
+===
+https://drive.google.com/drive/folders/1EQ-kn3yc2Zizs7t4dcxxZiks_63KZOy0
